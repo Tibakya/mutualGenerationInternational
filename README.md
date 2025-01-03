@@ -1,6 +1,6 @@
 # **Mutual Generation International (MGI) Official Website**
 
-This is the official website for **Mutual Generation International (MGI)**, www.mutualgenerationinternation.or.tz  non-governmental organization dedicated to empowering communities through self-reliance education, skills development, children's sponsorship, climate change advocacy, and community mobilization. The website serves as a digital platform to share the organization's mission, vision, activities, and impact.
+This is the official website for **Mutual Generation International (MGI)**, https://www.mutualgenerationinternational.or.tz  non-governmental organization dedicated to empowering communities through self-reliance education, skills development, children's sponsorship, climate change advocacy, and community mobilization. The website serves as a digital platform to share the organization's mission, vision, activities, and impact.
 
 ---
 
@@ -24,7 +24,7 @@ This is the official website for **Mutual Generation International (MGI)**, www.
 ---
 
 ## **Getting Started**
-visit the official website www.mutualgenerationinternation.or.tz
+visit the official website https://www.mutualgenerationinternational.or.tz/
 
 ### **Prerequisites**
 
