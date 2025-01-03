@@ -24,6 +24,7 @@ This is the official website for **Mutual Generation International (MGI)**, a no
 ---
 
 ## **Getting Started**
+visit the official website www.mutualgenerationinternation.or.tz
 
 ### **Prerequisites**
 
